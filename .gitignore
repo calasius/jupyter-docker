@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+notebooks/data/activities.csv
+notebooks/claudio/mxnet_models/
+notebooks/claudio/trained_models/
+__pycache__
+libs/__pycache__/nbimport.cpython-36.pyc
