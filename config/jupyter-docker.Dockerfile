@@ -1,6 +1,6 @@
 FROM nvidia/cuda:10.1-cudnn7-devel
 
-RUN apt-get update && apt-get install python3.7 -y && apt-get install python3-pip -y
+RUN apt-get update && apt-get install python3.7 -y && apt-get install python3-pip -y && pip3 install --upgrade setuptools pip
 
 ADD libs/requirements.txt .
 
