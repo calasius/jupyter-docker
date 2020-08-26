@@ -18,4 +18,4 @@ seaborn
 unidecode
 mxnet-cu101
 gluonnlp
-tensorflow
+tensorflow-gpu
